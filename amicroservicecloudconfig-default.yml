@@ -1,4 +1,4 @@
 server:
   port : 9001
 data:
-  name : default
+  name : from defgault default
